@@ -1,9 +1,11 @@
 ## Full Name:
 Anton Yahorau
+
 Антон Егоров
 
 ## Contacts:
 Phone/viber: +375(29)570-87-67
+
 E-mail: an_tosha33@mail.ru
 
 ## Summary:
@@ -12,7 +14,13 @@ One of the most strong point i have is persistent. I can't stop until i find a s
 I'm very curious for different technologies. I really want to develop more and more in this directon. And i want to do it fast and qualitatively.
 
 ## Skills:
-html, css, sass, gulp, jQuery, php, MySQL
+ - html 
+ - css
+ - sass
+ - gulp
+ - jQuery
+ - php
+ - MySQL
 
 ## Code Examples:
   - [https://github.com/antosha33/brackets/blob/master/src/index.js](https://github.com/antosha33/brackets/blob/master/src/index.js)
